@@ -1,0 +1,15 @@
+body {
+  background-color: #141414;
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: 'Zen Tokyo Zoo', cursive;
+  font-size: 50px;
+  color: lightgreen;
+}
